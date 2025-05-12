@@ -13,7 +13,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/exynos_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-A546E": {
         "fullName": "Galaxy A54 5G",
@@ -29,7 +29,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/exynos_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-G998B": {
         "fullName": "Galaxy S21 Ultra",
@@ -49,7 +49,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/exynos_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-N986B": {
         "fullName": "Galaxy Note 20 Ultra",
@@ -69,7 +69,7 @@
             }
         ],
         "manufacturer": "Qualcomm",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-S928B": {
         "fullName": "Galaxy S24 Ultra",
@@ -89,7 +89,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-S926B": {
         "fullName": "Galaxy S24+",
@@ -109,7 +109,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-S921B": {
         "fullName": "Galaxy S24",
@@ -129,7 +129,7 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-A346E": {
         "fullName": "Galaxy A34 5G",
@@ -145,6 +145,6 @@
             }
         ],
         "manufacturer": "Samsung",
-        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/exynos_logo.png"
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     }
 }
