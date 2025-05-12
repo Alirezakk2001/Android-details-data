@@ -55,28 +55,7 @@
     ],
  "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
- },  "SM-S926B": {
-       "fullName": "Galaxy S24+",
- "chipset": "Snapdragon 8 Gen 3 for Galaxy",
-    "cores": [
-      { "name": "Cortex-X4", "count": 1 },
-      { "name": "Cortex-A720", "count": 5 },
-      { "name": "Cortex-A520", "count": 2 }
-    ],
-    "manufacturer": "Samsung",
-     "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png",
-  },  "SM-S921B": {
-    "fullName": "Galaxy S24",
-   "chipset": "Snapdragon 8 Gen 3 for Galaxy",
-    "cores": [
-      { "name": "Cortex-X4", "count": 1 },
-      { "name": "Cortex-A720", "count": 5 },
-      { "name": "Cortex-A520", "count": 2 }
-    ],
-   "manufacturer": "Samsung",
-     "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
-  },
-  
+ },
   "SM-A346E": {
       "fullName": "Galaxy A34 5G",
   "chipset": "Exynos 1380",
