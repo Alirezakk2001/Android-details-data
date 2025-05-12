@@ -55,9 +55,7 @@
     ],
  "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png"
- },
-
-  "SM-S926B": {
+ },  "SM-S926B": {
        "fullName": "Galaxy S24+",
  "chipset": "Snapdragon 8 Gen 3 for Galaxy",
     "cores": [
@@ -67,10 +65,7 @@
     ],
     "manufacturer": "Samsung",
      "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/chipset-logos/main/snapdragon_logo.png",
-  },
-
-
-  "SM-S921B": {
+  },  "SM-S921B": {
     "fullName": "Galaxy S24",
    "chipset": "Snapdragon 8 Gen 3 for Galaxy",
     "cores": [
