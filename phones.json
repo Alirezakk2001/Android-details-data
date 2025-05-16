@@ -8,7 +8,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 14"
+        "androidVersion": "14"
     },
     "SM-A546E": {
         "fullName": "Galaxy A54 5G",
@@ -19,7 +19,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 13"
+        "androidVersion": "13"
     },
     "SM-G998B": {
         "fullName": "Galaxy S21 Ultra",
@@ -31,7 +31,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 11"
+        "androidVersion": "11"
     },
     "SM-N986B": {
         "fullName": "Galaxy Note 20 Ultra",
@@ -43,7 +43,7 @@
         ],
         "manufacturer": "Qualcomm",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 10"
+        "androidVersion": "10"
     },
     "SM-S928B": {
         "fullName": "Galaxy S24 Ultra",
@@ -55,7 +55,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 14"
+        "androidVersion": "14"
     },
     "SM-S926B": {
         "fullName": "Galaxy S24+",
@@ -67,7 +67,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 14"
+        "androidVersion": "14"
     },
     "SM-S921B": {
         "fullName": "Galaxy S24",
@@ -79,7 +79,7 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 14"
+        "androidVersion": "14"
     },
     "SM-A346E": {
         "fullName": "Galaxy A34 5G",
@@ -90,6 +90,6 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
-        "androidVersion": "Android 13"
+        "androidVersion": "13"
     }
 }
