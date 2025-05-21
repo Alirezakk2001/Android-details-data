@@ -157,7 +157,7 @@
     },
     "M2004J19C": {
     "fullName": "Xiaomi Redmi 9",
-    "chipset": "MediaTek Helio G80",
+    "chipset": "Snapdragon 8 Gen 1",
         "processSize": "12nm",
     
     "cores": [
