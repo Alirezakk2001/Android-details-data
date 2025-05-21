@@ -157,7 +157,7 @@
     },
     "M2004J19C": {
     "fullName": "Xiaomi Redmi 9",
-    "chipset": "Snapdragon 8 Gen 1",
+    "chipset": "MediaTek Helio G80",
         "processSize": "12nm",
     
     "cores": [
@@ -170,8 +170,8 @@
             "count": 6
         }
     ],
-    "manufacturer": "Qualcomm",
-    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png"
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png"
 }
 
 }
