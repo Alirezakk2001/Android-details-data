@@ -2,7 +2,7 @@
     "SM-A356E": {
         "fullName": "Galaxy A35 5G",
         "chipset": "Exynos 1380",
-        
+        "processSize": "5nm",
         "cores": [
             {
                 "name": "Cortex-A55",
@@ -19,6 +19,7 @@
     "SM-A546E": {
         "fullName": "Galaxy A54 5G",
         "chipset": "Exynos 1380",
+        "processSize": "5nm",
         "cores": [
             {
                 "name": "Cortex-A55",
@@ -35,6 +36,7 @@
     "SM-G998B": {
         "fullName": "Galaxy S21 Ultra",
         "chipset": "Exynos 2100",
+        "processSize": "5nm",
         "cores": [
             {
                 "name": "Cortex-X1",
@@ -55,6 +57,7 @@
     "SM-N986B": {
         "fullName": "Galaxy Note 20 Ultra",
         "chipset": "Snapdragon 865+",
+        "processSize": "7nm",
         "cores": [
             {
                 "name": "Kryo 585",
@@ -74,7 +77,8 @@
     },
     "SM-S928B": {
         "fullName": "Galaxy S24 Ultra",
-        "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+        "chipset": "Snapdragon 8 Gen 3",
+        "processSize": "4nm",
         "cores": [
             {
                 "name": "Cortex-X4",
@@ -95,6 +99,7 @@
     "SM-S926B": {
         "fullName": "Galaxy S24+",
         "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+        "processSize": "4nm",
         "cores": [
             {
                 "name": "Cortex-X4",
@@ -114,7 +119,8 @@
     },
     "SM-S921B": {
         "fullName": "Galaxy S24",
-        "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+        "chipset": "Snapdragon 8 Gen 3",
+        "processSize": "4nm",
         "cores": [
             {
                 "name": "Cortex-X4",
@@ -135,6 +141,7 @@
     "SM-A346E": {
         "fullName": "Galaxy A34 5G",
         "chipset": "Exynos 1380",
+        "processSize": "5nm",
         "cores": [
             {
                 "name": "Cortex-A55",
@@ -151,6 +158,7 @@
     "M2004J19C": {
     "fullName": "Xiaomi Redmi 9",
     "chipset": "MediaTek Helio G80",
+        "processSize": "12nm",
     
     "cores": [
         {
