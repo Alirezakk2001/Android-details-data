@@ -1,6 +1,7 @@
 {
-    "SM-A356E": {
-        "fullName": "Galaxy A35 5G",
+    
+    "SM-A546E": {
+        "fullName": "Galaxy A54 5G",
         "chipset": "Exynos 1380",
         "processSize": "5nm",
         "cores": [
@@ -16,8 +17,8 @@
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
-    "SM-A546E": {
-        "fullName": "Galaxy A54 5G",
+ "SM-A356E": {
+        "fullName": "Galaxy A35 5G",
         "chipset": "Exynos 1380",
         "processSize": "5nm",
         "cores": [
