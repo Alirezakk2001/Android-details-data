@@ -15,6 +15,22 @@
         ],
         "manufacturer": "Samsung",
         "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
+    },  "SM-A356E": {
+        "fullName": "Galaxy A35 5G",
+        "chipset": "Exynos 1380",
+        "processSize": "5nm",
+        "cores": [
+            {
+                "name": "Cortex-A55",
+                "count": 4
+            },
+            {
+                "name": "Cortex-A78",
+                "count": 4
+            }
+        ],
+        "manufacturer": "Samsung",
+        "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png"
     },
     "SM-A546E": {
         "fullName": "Galaxy A54 5G",
