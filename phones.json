@@ -606,7 +606,7 @@
       { "name": "Cortex-A55", "count": 4 }
     ],
     "manufacturer": "Samsung",
-    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
     "releaseYear": 2024
   },
   "SM-A356N": {
