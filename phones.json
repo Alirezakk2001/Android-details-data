@@ -605,8 +605,8 @@
       { "name": "Cortex-A78", "count": 4 },
       { "name": "Cortex-A55", "count": 4 }
     ],
-    "manufacturer": "MediaTek",
-    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "manufacturer": "XRing01",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/xring01_logo.png",
     "releaseYear": 2024
   },
   "SM-A356N": {
