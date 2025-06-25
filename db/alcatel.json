@@ -1,1 +1,15 @@
+{
+"T803D": {
+    "fullName": "V3 Ultra",
+     "chipset": "Dimensity 6300",
+    "processSize": "6nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
 
+}
