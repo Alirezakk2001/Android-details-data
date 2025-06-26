@@ -36,4 +36,67 @@
   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
     "releaseYear": 2025
   }
+
+
+  "HRY-LX1": {
+    "fullName": "Honor 10 Lite",
+    "chipset": "Kirin 710",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2018
+  },
+  "HRY-LX1MEB": {
+    "fullName": "Honor 10 Lite",
+    "chipset": "Kirin 710",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2018
+  },
+  "HRY-AL00a": {
+    "fullName": "Honor 10 Lite",
+    "chipset": "Kirin 710",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2018
+  },
+  "HRY-AL00": {
+    "fullName": "Honor 10 Lite",
+    "chipset": "Kirin 710",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2018
+  },
+  "HRY-TL00": {
+    "fullName": "Honor 10 Lite",
+    "chipset": "Kirin 710",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2018
+  }
+           
 }
