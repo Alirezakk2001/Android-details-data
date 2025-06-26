@@ -585,7 +585,6 @@
     "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/exynos_logo.png",
     "releaseYear": 2024
   },
-  //Galaxy A35
   "SM-A356B": {
     "fullName": "Galaxy A35",
     "chipset": "Exynos 1380",
