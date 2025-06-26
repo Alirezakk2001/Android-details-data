@@ -1,0 +1,18 @@
+{
+
+                    
+"M412H": {
+    "fullName": "Note 22 Pro",
+   "chipset": "Snapdragon 7s Gen 3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A720", "count": 1 },
+      { "name": "Cortex-A720", "count": 3 },
+      { "name": "Cortex-A520", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  }
+
+}

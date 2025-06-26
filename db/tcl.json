@@ -1,0 +1,28 @@
+{
+
+                    
+"T626K": {
+    "fullName": "TCL 60 NxtPaper 4G",
+     "chipset": "Helio G92",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+"T626K1": {
+    "fullName": "TCL 60 NxtPaper 4G",
+     "chipset": "Helio G92",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
+}

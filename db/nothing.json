@@ -1,0 +1,122 @@
+{
+
+  "A001": {
+    "fullName": "CMF Phone 2 Pro",
+    "chipset": "Dimensity 7300 Pro",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+
+  "A059P": {
+    "fullName": "Phone 3a Pro",
+    "chipset": "Qualcomm Snapdragon 7s Gen 3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A720", "count": 1 },
+      { "name": "Cortex-A720", "count": 3 },
+      { "name": "Cortex-A520", "count": 4 } 
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+
+  "A059": {
+    "fullName": "Phone 3a",
+    "chipset": "Qualcomm Snapdragon 7s Gen 3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A720", "count": 1 },
+      { "name": "Cortex-A720", "count": 3 },
+      { "name": "Cortex-A520", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+
+  "A142P": {
+    "fullName": "Phone 2a Plus",
+    "chipset": "Dimensity 7350 Pro",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A715", "count": 2 },
+      { "name": "Cortex-A510", "count": 6 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2024
+  },
+
+  "A015": {
+    "fullName": "CMF Phone 1",
+    "chipset": "Dimensity 7300", 
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2024
+  },
+  "A10400117": {
+    "fullName": "CMF Phone 1",
+    "chipset": "Dimensity 7300", 
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2024
+  },
+
+  "A142": {
+    "fullName": "Phone 2a",
+    "chipset": "Dimensity 7200 Pro",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A715", "count": 2 },
+      { "name": "Cortex-A510", "count": 6 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2024
+  },
+
+  "A065": {
+    "fullName": "Phone 2",
+    "chipset": "Qualcomm Snapdragon 8+ Gen 1",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-X2", "count": 1 },
+      { "name": "Cortex-A710", "count": 3 },
+      { "name": "Cortex-A510", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2023
+  },
+
+  "A063": {
+    "fullName": "Phone 1",
+    "chipset": "Snapdragon 778G+",
+    "processSize": "6nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 1 },
+      { "name": "Cortex-A78", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2022
+  }
+}

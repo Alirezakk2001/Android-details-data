@@ -1,0 +1,137 @@
+{
+
+         
+"LMF100N": {
+    "fullName": "Wing 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-F100": {
+    "fullName": "Wing 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-F100N": {
+    "fullName": "Wing 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-F100V": {
+    "fullName": "Wing 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+
+        
+"LMG910EMW": {
+    "fullName": "Velvet",
+    "chipset": "Snapdragon 845",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-G910EMW": {
+    "fullName": "Velvet",
+    "chipset": "Snapdragon 845",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+
+           
+"LM-G900": {
+    "fullName": "Velvet 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-G900N": {
+    "fullName": "Velvet 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-G900EM": {
+    "fullName": "Velvet 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"LM-G900TM": {
+    "fullName": "Velvet 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+   "manufacturer": "Qualcomm",
+   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  }
+
+}

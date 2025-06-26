@@ -1,0 +1,16 @@
+{
+      
+"C210": {
+    "fullName": "C210",
+    "chipset": "Snapdragon 662",
+    "processSize": "11nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2023
+  }
+
+}

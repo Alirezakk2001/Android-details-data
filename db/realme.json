@@ -1,0 +1,17 @@
+{
+                 
+"RMX5061": {
+    "fullName": "Realme GT 7",
+    "chipset": "Dimensity 9400e",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-X4", "count": 1 },
+      { "name": "Cortex-X4", "count": 3 },
+      { "name": "Cortex-A720", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
+  
+}

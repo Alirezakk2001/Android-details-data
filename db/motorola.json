@@ -1,0 +1,58 @@
+{
+                       
+"motoG86PWR": {
+    "fullName": "Moto G86 Power",
+   "chipset": "Dimensity 7300",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+
+                  
+"motoG86": {
+    "fullName": "Moto G86",
+   "chipset": "Dimensity 7300",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+
+
+                
+"XT2505-1": {
+    "fullName": "Edge 60",
+   "chipset": "Dimensity 7300",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+"XT2505-4": {
+    "fullName": "Edge 60",
+   "chipset": "Dimensity 7300",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A78", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
+
+
+}

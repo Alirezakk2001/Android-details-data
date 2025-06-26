@@ -1,0 +1,64 @@
+{
+              
+"XQ-FS54": {
+    "fullName": "Xperia 1 VII",
+    "chipset": " Snapdragon 8 Elite",
+    "processSize": "3nm",
+    "cores": [
+      { "name": "Phoenix L", "count": 2 },
+      { "name": "Phoenix M", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+"XQFS54EUKCG.GC": {
+    "fullName": "Xperia 1 VII",
+    "chipset": " Snapdragon 8 Elite",
+    "processSize": "3nm",
+    "cores": [
+      { "name": "Phoenix L", "count": 2 },
+      { "name": "Phoenix M", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+"XQFS54EUKCV.GC": {
+    "fullName": "Xperia 1 VII",
+    "chipset": " Snapdragon 8 Elite",
+    "processSize": "3nm",
+    "cores": [
+      { "name": "Phoenix L", "count": 2 },
+      { "name": "Phoenix M", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+"XQFS54EUKCB.GC": {
+    "fullName": "Xperia 1 VII",
+    "chipset": " Snapdragon 8 Elite",
+    "processSize": "3nm",
+    "cores": [
+      { "name": "Phoenix L", "count": 2 },
+      { "name": "Phoenix M", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  },
+"PDX256": {
+    "fullName": "Xperia 1 VII",
+    "chipset": " Snapdragon 8 Elite",
+    "processSize": "3nm",
+    "cores": [
+      { "name": "Phoenix L", "count": 2 },
+      { "name": "Phoenix M", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2025
+  }
+
+}

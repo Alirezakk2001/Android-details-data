@@ -1,0 +1,16 @@
+{
+                 
+"E6533": {
+    "fullName": "Micromax In 2c",
+    "chipset": "Unisoc T610",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex‑A75", "count": 2 },
+      { "name": "Cortex‑A55", "count": 6}
+    ],
+     "manufacturer": "UNISOC",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/unisoc_logo.png",
+    "releaseYear": 2022
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+              
+"ZAE40142GR": {
+    "fullName": "Idea Tab Pro",
+   "chipset": "Dimensity 8300",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex-A715", "count": 1 },
+      { "name": "Cortex-A715", "count": 3 },
+      { "name": "Cortex-A510", "count": 4 }
+    ],
+    "manufacturer": "MediaTek",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
+
+}

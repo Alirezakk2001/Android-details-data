@@ -1,0 +1,18 @@
+{
+ 
+               
+"1995": {
+    "fullName": "Surface Duo 2",
+     "chipset": "Snapdragon 888",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex-X1", "count": 1 },
+      { "name": "Cortex-A78", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2021
+  }
+
+}

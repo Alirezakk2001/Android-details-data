@@ -1,0 +1,39 @@
+{
+           
+"NIC-LX1": {
+    "fullName": "Honor X6c",
+    "chipset": "Helio G81 Ultra",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+  "manufacturer": "MediaTek",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+"NIC-LX2": {
+    "fullName": "Honor X6c",
+    "chipset": "Helio G81 Ultra",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+  "manufacturer": "MediaTek",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  },
+"NIC-LX3": {
+    "fullName": "Honor X6c",
+    "chipset": "Helio G81 Ultra",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+  "manufacturer": "MediaTek",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2025
+  }
+}

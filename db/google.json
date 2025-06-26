@@ -1,0 +1,1201 @@
+{
+          
+"G2YBB": {
+    "fullName": "Pixel 9",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GUR25": {
+    "fullName": "Pixel 9",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"G1B60": {
+    "fullName": "Pixel 9",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+
+             
+"GR83Y": {
+    "fullName": "Pixel 9 Pro",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GEC77": {
+    "fullName": "Pixel 9 Pro",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GWVK6": {
+    "fullName": "Pixel 9 Pro",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+
+                
+"GGX8B": {
+    "fullName": "Pixel 9 Pro XL",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GZC4K": {
+    "fullName": "Pixel 9 Pro XL",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GQ57S": {
+    "fullName": "Pixel 9 Pro XL",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+
+                  
+"GGH2X": {
+    "fullName": "Pixel 9 Pro Fold",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"GC15S": {
+    "fullName": "Pixel 9 Pro Fold",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+
+          
+"GXQ96": {
+    "fullName": "Pixel 9a",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2025
+  },
+"GTF7P": {
+    "fullName": "Pixel 9a",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2025
+  },
+"G3Y12": {
+    "fullName": "Pixel 9a",
+    "chipset": "Google Tensor G4",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X4", "count": 1 },
+      { "name": "Cortex‑A720", "count": 3 },
+      { "name": "Cortex‑A520", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2025
+  },
+
+         
+"GKWS6": {
+    "fullName": "Pixel 8",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"G9BQD": {
+    "fullName": "Pixel 8",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"GA04851-US": {
+    "fullName": "Pixel 8",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"GZPFO": {
+    "fullName": "Pixel 8",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"GPJ41": {
+    "fullName": "Pixel 8",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+
+             
+"GC3VE": {
+    "fullName": "Pixel 8 Pro",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"G1MNW": {
+    "fullName": "Pixel 8 Pro",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      { "name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+
+          
+"GKV4X": {
+    "fullName": "Pixel 8a",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      {"name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"G6GPR": {
+    "fullName": "Pixel 8a",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      {"name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"G8HHN": {
+    "fullName": "Pixel 8a",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      {"name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+"G576D": {
+    "fullName": "Pixel 8a",
+    "chipset": "Google Tensor G3",
+    "processSize": "4nm",
+    "cores": [
+      {"name": "Cortex‑X3", "count": 1 },
+      { "name": "Cortex‑A715", "count": 4 },
+      { "name": "Cortex‑A510", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2024
+  },
+
+            
+"G9FPL": {
+    "fullName": "Pixel Fold",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+
+              
+"GA06158": {
+    "fullName": "Pixel Tablet",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+
+          
+"GWKK3": {
+    "fullName": "Pixel 7a",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"GHL1X": {
+    "fullName": "Pixel 7a",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"G0DZQ": {
+    "fullName": "Pixel 7a",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+"G82U8": {
+    "fullName": "Pixel 7a",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2023
+  },
+
+             
+"GP4BC": {
+    "fullName": "Pixel 7 Pro",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GE2AE": {
+    "fullName": "Pixel 7 Pro",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GFE4J": {
+    "fullName": "Pixel 7 Pro",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+
+         
+"GVU6C": {
+    "fullName": "Pixel 7",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GQML3": {
+    "fullName": "Pixel 7",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GO3Z5": {
+    "fullName": "Pixel 7",
+    "chipset": "Google Tensor G2",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A78", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+
+           
+"GX7AS": {
+    "fullName": "Pixel 6a",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GB62Z": {
+    "fullName": "Pixel 6a",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"G1AZG": {
+    "fullName": "Pixel 6a",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+"GB17L": {
+    "fullName": "Pixel 6a",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2022
+  },
+
+             
+"GLUOG": {
+    "fullName": "Pixel 6 Pro",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+"G8VOU": {
+    "fullName": "Pixel 6 Pro",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+"GF5KQ": {
+    "fullName": "Pixel 6 Pro",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+
+         
+"GB7N6": {
+    "fullName": "Pixel 6",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+"G9S9B16": {
+    "fullName": "Pixel 6",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+"G9S9B": {
+    "fullName": "Pixel 6",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+"GR1YH": {
+    "fullName": "Pixel 6",
+    "chipset": "Google Tensor",
+    "processSize": "5nm",
+    "cores": [
+      { "name": "Cortex‑X1", "count": 2 },
+      { "name": "Cortex‑A76", "count": 2 },
+      { "name": "Cortex‑A55", "count": 4 }
+    ],
+    "manufacturer": "Google",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tensor_logo.png",
+    "releaseYear": 2021
+  },
+
+             
+"G1F8F": {
+    "fullName": "Pixel 5a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex‑A76", "count": 1 },
+      { "name": "Cortex‑A76", "count": 1 },
+      { "name": "Cortex‑A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2021
+  },
+"G4S1M": {
+    "fullName": "Pixel 5a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex‑A76", "count": 1 },
+      { "name": "Cortex‑A76", "count": 1 },
+      { "name": "Cortex‑A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2021
+  },
+
+         
+"GD1YQ": {
+    "fullName": "Pixel 5",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"GTT9Q": {
+    "fullName": "Pixel 5",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G5NZ6": {
+    "fullName": "Pixel 5",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+
+             
+"GD1YQ": {
+    "fullName": "Pixel 4a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G025I": {
+    "fullName": "Pixel 4a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G025E": {
+    "fullName": "Pixel 4a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G025H": {
+    "fullName": "Pixel 4a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G6QU3": {
+    "fullName": "Pixel 4a 5G",
+    "chipset": "Snapdragon 765G",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+
+          
+"G025J": {
+    "fullName": "Pixel 4a",
+    "chipset": "Snapdragon 730G",
+    "processSize": "8nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"GA02099": {
+    "fullName": "Pixel 4a",
+    "chipset": "Snapdragon 730G",
+    "processSize": "8nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+"G025N": {
+    "fullName": "Pixel 4a",
+    "chipset": "Snapdragon 730G",
+    "processSize": "8nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2020
+  },
+
+            
+"G020P": {
+    "fullName": "Pixel 4 XL",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020": {
+    "fullName": "Pixel 4 XL",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01181-US": {
+    "fullName": "Pixel 4 XL",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01182-US": {
+    "fullName": "Pixel 4 XL",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01180-US": {
+    "fullName": "Pixel 4 XL",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+
+          
+"G020M": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020I": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01188-US": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01187-US": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01189-US": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"GA01191-US": {
+    "fullName": "Pixel 4",
+    "chipset": "Snapdragon 855",
+    "processSize": "7nm",
+    "cores": [
+      { "name": "Cortex-A76", "count": 1 },
+      { "name": "Cortex-A76", "count": 3 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+
+              
+"G020A": {
+    "fullName": "Pixel 3a XL",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020B": {
+    "fullName": "Pixel 3a XL",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020C": {
+    "fullName": "Pixel 3a XL",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020D": {
+    "fullName": "Pixel 3a XL",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+
+           
+"G020E": {
+    "fullName": "Pixel 3a",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020F": {
+    "fullName": "Pixel 3a",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020G": {
+    "fullName": "Pixel 3a",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+"G020H": {
+    "fullName": "Pixel 3a",
+    "chipset": "Snapdragon 670",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 2 },
+      { "name": "Cortex-A55", "count": 6 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2019
+  },
+
+             
+"G013C": {
+    "fullName": "Pixel 3 XL",
+    "chipset": "Snapdragon 845",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2018
+  },
+
+          
+"G013A": {
+    "fullName": "Pixel 3",
+    "chipset": "Snapdragon 845",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A75", "count": 4 },
+      { "name": "Cortex-A55", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2018
+  },
+
+          
+"G011A": {
+    "fullName": "Pixel 2",
+    "chipset": "Snapdragon 835",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2017
+  },
+
+             
+"G011C": {
+    "fullName": "Pixel 2 XL",
+    "chipset": "Qualcomm Snapdragon 835",
+    "processSize": "10nm",
+    "cores": [
+      { "name": "Cortex-A73", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2017
+  },
+
+           
+"MLA-Var": {
+    "fullName": "Pixel XL",
+    "chipset": "Qualcomm Snapdragon 821",
+    "processSize": "14nm",
+    "cores": [
+      { "name": "Kryo", "count": 2 },
+      { "name": "Kryo", "count": 2 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2016
+  },
+"G-2PW2100": {
+    "fullName": "Pixel XL",
+    "chipset": "Qualcomm Snapdragon 821",
+    "processSize": "14nm",
+    "cores": [
+      { "name": "Kryo", "count": 2 },
+      { "name": "Kryo", "count": 2 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2016
+  },
+"G-2PW2200": {
+    "fullName": "Pixel XL",
+    "chipset": "Qualcomm Snapdragon 821",
+    "processSize": "14nm",
+    "cores": [
+      { "name": "Kryo", "count": 2 },
+      { "name": "Kryo", "count": 2 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2016
+  },
+
+                  
+"G-2PW2100": {
+    "fullName": "Pixel",
+    "chipset": "Qualcomm Snapdragon 821",
+    "processSize": "14nm",
+    "cores": [
+      { "name": "Kryo", "count": 2 },
+      { "name": "Kryo", "count": 2 }
+    ],
+    "manufacturer": "Qualcomm",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
+    "releaseYear": 2016
+  },
+
+          
+"dragon": {
+    "fullName": "Pixel C",
+    "chipset": "NVIDIA Tegra X1",
+    "processSize": "20nm",
+    "cores": [
+      { "name": "Cortex-A57", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+    ],
+    "manufacturer": "NVIDIA",
+    "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/tegra_logo.png",
+    "releaseYear": 2015
+  }
+
+}
