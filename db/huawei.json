@@ -11,6 +11,105 @@
     "manufacturer": "Qualcomm",
     "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/snapdragon_logo.png",
     "releaseYear": 2025
-  }
+  },
 
+    "RNE-L21": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+ "RNE-L22": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+           "RNE-L01": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+    "RNE-L02": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+          "RNE-L11": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+
+                     "RNE-L23": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+
+           "RNE-L03": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  },
+
+"RNE-AL00": {
+    "fullName": "Mate 10 Lite",
+    "chipset": "Kirin 659",
+    "processSize": "16nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 },
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Huawei",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
+    "releaseYear": 2017
+  }
 }
