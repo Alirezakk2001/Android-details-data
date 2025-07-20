@@ -111,5 +111,53 @@
   "manufacturer": "Huawei",
   "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/kirin_logo.png",
     "releaseYear": 2017
-  }
+  },
+
+          
+
+    "MRD-LX1F": {
+    "fullName": "Huawei Y6 Prime (2019)",
+    "chipset": "Helio A22",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Mediatek ",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2019
+  },
+    "MRD-LX1": {
+    "fullName": "Huawei Y6 Prime (2019)",
+    "chipset": "Helio A22",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Mediatek ",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2019
+  },
+"MRD-LX3": {
+    "fullName": "Huawei Y6 Prime (2019)",
+    "chipset": "Helio A22",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Mediatek ",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2019
+  },
+            "MRD-LX1N": {
+    "fullName": "Huawei Y6 Prime (2019)",
+    "chipset": "Helio A22",
+    "processSize": "12nm",
+    "cores": [
+      { "name": "Cortex-A53", "count": 4 }
+],
+  "manufacturer": "Mediatek ",
+  "chipsetLogoUrl": "https://raw.githubusercontent.com/Alirezakk2001/Android-details-data/main/mediatek_logo.png",
+    "releaseYear": 2019
+  },
+          
 }
